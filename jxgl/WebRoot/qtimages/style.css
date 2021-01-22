@@ -1,0 +1,40 @@
+BODY {
+	
+	background-image:url(bg.jpg);
+	FONT-SIZE: 12px;
+}
+*{FONT-SIZE: 12px;}
+a{ COLOR: #fff; TEXT-DECORATION: none}
+#fenye a{ font-size:12px; color:#000000; text-decoration:none}
+.newsline TD {
+	LINE-HEIGHT: 25px; BORDER-BOTTOM: #c9c9c9 1px dashed
+}
+.newsline TD A:link {
+	COLOR: #000
+}
+.newsline TD A:visited {
+	COLOR: #000
+}
+.newsline TD A:hover {
+	COLOR: #000
+}
+.newsline TD A:active {
+	COLOR: #000
+}
+A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.STYLE3 {color: #006633; font-weight: bold; font-size:12px; }
+.STYLE4 {color: #FFFFFF;font-weight: bold;}
+
+.STYLE7 {color: #999999; }
+.STYLE8 {color: #039F20}
+.ggtile {color: #3CACA4; font-weight: bold; }
+.hsgbutton{ background:url(the_formbtn.gif) no-repeat;color:#000000;width:80px;height: 24px; border:0px;line-height:10px; font-size:12px;margin-right: 5px; cursor:pointer}
+.STYLE9 {color: #993300; font-weight: bold; }
